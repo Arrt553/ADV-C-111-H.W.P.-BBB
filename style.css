@@ -1,0 +1,56 @@
+body{
+    font-family: 'Kirang Haerang', cursive;
+    font-family: 'Viaoda Libre', cursive;
+    background-color: #07f547;
+    
+}
+.header_div img{
+    width: 100px;
+    height: auto;
+}
+.header_div:hover{
+    background-color:darkgrey;
+    font-size: 35px;
+}
+.main_div{
+    margin-left: 15px;
+    background-color: deepskyblue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px double whitesmoke;
+}
+.main_div b{
+    background-color: #07f5d5;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px #f5ae07;
+}
+.main_div b:hover{
+    cursor: not-allowed;
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 25px;
+}
+#ma1{
+    cursor: not-allowed;
+    font-weight: 900;
+}
+#mnm1{
+    cursor: not-allowed;
+    font-weight: 900;
+}
+h2:hover{
+    font-size: 35px;
+    font-family: 'Kirang Haerang', cursive;
+    font-weight: bolder;
+    color: aqua;
+    cursor: not-allowed;
+}
+#Fan{
+    width: 400px;
+    height: 400px;
+}
+#Fan:hover{
+    cursor: not-allowed;
+    box-shadow: 5px 5px 18px #f5ae07;;
+}
